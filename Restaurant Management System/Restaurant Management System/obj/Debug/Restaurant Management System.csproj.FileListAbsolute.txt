@@ -1,0 +1,50 @@
+C:\Users\Ian Bradley\Desktop\Resturant\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\Ian Bradley\Desktop\Resturant\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\Ian Bradley\Desktop\Resturant\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\Ian Bradley\Desktop\Resturant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.AssemblyReference.cache
+C:\Users\Ian Bradley\Desktop\Resturant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian Bradley\Desktop\Resturant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdminDashboard.resources
+C:\Users\Ian Bradley\Desktop\Resturant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.ChildForm.AddItem.resources
+C:\Users\Ian Bradley\Desktop\Resturant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Ian Bradley\Desktop\Resturant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.cache
+C:\Users\Ian Bradley\Desktop\Resturant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ian Bradley\Desktop\Resturant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\Ian Bradley\Desktop\Resturant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\Ian Bradley\Desktop\Resturant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.ChildForm.Category.resources
+C:\Users\Ian Bradley\Desktop\Resturant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.ChildForm.Food.resources
+C:\Users\Ian Bradley\Desktop\Resturant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.ChildForm.Price.resources
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.AssemblyReference.cache
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdminDashboard.resources
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Billing.resources
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.ChildForm.AddItem.resources
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.ChildForm.Category.resources
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.ChildForm.Dashboard.resources
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.ChildForm.Food.resources
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.ChildForm.Price.resources
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.cache
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\Ian Bradley\Desktop\Restaurant\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.AssemblyReference.cache
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdminDashboard.resources
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Billing.resources
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.ChildForm.AddItem.resources
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.ChildForm.Category.resources
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.ChildForm.Dashboard.resources
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.ChildForm.Food.resources
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.ChildForm.Price.resources
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.cache
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\Ian Bradley\Desktop\Restaurant-management-system\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.ChildForm.FoodType.resources
