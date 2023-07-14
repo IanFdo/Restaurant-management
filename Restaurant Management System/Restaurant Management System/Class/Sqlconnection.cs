@@ -10,7 +10,7 @@ namespace Restaurant_Management_System.Class
 {
     public class Sqlconnection
     {
-        protected string connectionstring = "Data Source=DESKTOP-S5LHH43\\SQLEXPRESS;Initial Catalog=Restaurant;Integrated Security=True";
+        protected string connectionstring = "";
 
         protected SqlConnection conn;
         protected SqlCommand comm;
